@@ -1,6 +1,6 @@
 import React from 'react';
-import 'SearchBar.css';
-import { ReactComponent } from '*.svg';
+import './SearchBar.css';
+// import { ReactComponent } from '*.svg';
 
 const sortByOptions = {
     'Best Match': 'best_match',
